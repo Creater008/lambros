@@ -37,7 +37,7 @@ body{
 .lb-gal_all_wrap{
       position:relative;
       width:100%;
-     // background:#000;
+     
      height: 450px;
 }
 .lb-gal_opp{
@@ -83,11 +83,8 @@ body{
             margin-top: 10px;
             border: 1px dotted #fbfbfb;
 }
-
-
 .lb-menu_wrapper{
-
-      display:inline-block;
+    display:inline-block;
       width:100%;
       height:50px;
       position:absolute;
@@ -99,7 +96,7 @@ body{
       display:inline-block;
       width:3%;
       height:50px;
-     // background:#fbfbfb;
+     
 }
 .lb-home-image{height: 50px;
       width: 50px;
